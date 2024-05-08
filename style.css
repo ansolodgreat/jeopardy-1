@@ -67,8 +67,8 @@ main {
     position: absolute;
     background-color: var(--primClr);
     color: var(--accLight);
-    width: 1190px;
-    height: 600px;
+    width: 790px;
+    height: 300px;
     display: none;
     flex-direction: column;
     align-items: center;
